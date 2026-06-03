@@ -31,7 +31,7 @@ I'm a telecom fiber optic technician in Canada. I've been mining and running all
 - - **Community Governance:** Helium Network MCC (Manufacturer Compliance Committee) — reviewed and approved IoT hotspot manufacturers for the HNT network
 - **Infrastructure:** Linux Ubuntu VPS's, systemd services, UFW firewalls, Fail2Ban, SSH hardening, sysctl tuning
 - - **Scripting & DevOps:** Bash tooling, cron automation, Discord webhook API integrations, JSON parsing, systemd service creation, health monitoring with state-file alerting, VPS security hardening, Linux server administration
-- **Mining Hardware:** Started off with all types of GPU mining hardware a variety of ASICs Antminer S9/17Pro & S19 and now as 'Home Mining' has taken off more and devices have adanced I have an assorted collection of Canaan Avalon Series Miners, NerdQaxe++ & NerdQx devices and a few more...
+- **Mining Hardware:** Started off with all types of GPU mining hardware a variety of ASICs Antminer S9/17Pro & S19 and now as 'Home Mining' has taken off more and devices have advanced I have an assorted collection of Canaan Avalon Series Miners, NerdQaxe++ & NerdQx devices and a few more...
 - **Mining Software:** GSS/GSSM (MMFP Solutions), Start9, DATUM Gateway
 - **Certs:** MCSE, MCP, CompTIA A+, CompTIA Network+
 - - **Education:** Post-secondary Systems & Electronics Technology
