@@ -43,4 +43,3 @@ I'm a telecom fiber optic technician in Central Saskatchewan, Canada. I've been 
 | X / Twitter | [@BaumerCrypto2\_0](https://x.com/BaumerCrypto2_0) |
 | TikTok | [@baumercrypto2.0](https://www.tiktok.com/@baumercrypto2.0) |
 | YouTube | [@baumercrypto2.0](https://www.youtube.com/@baumercrypto2.0) |
-| Facebook | [baumgartnerk](https://facebook.com/baumgartnerk) |
