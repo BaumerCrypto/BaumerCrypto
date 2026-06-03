@@ -6,7 +6,7 @@ I'm a telecom fiber optic technician in Central Saskatchewan, Canada. I've been 
 
 🔷 **DigiDollar Oracle Operator** — I run Oracle Slot 17 for DigiByte's upcoming DigiDollar stablecoin system. I build and maintain the monitoring tools, hardening guides, and deployment scripts that keep my oracle node running 24/7 on a hardened Linux VPS.
 
-⛏️ **Crypto Mining Infrastructure** — Solo mining DGB and BTC with custom monitoring scripts for ASIC miners, Start9/DATUM Gateway, and Discord webhook alerting.
+⛏️ **Crypto Mining Infrastructure** — Solo mining DGB and BTC using [GSS/GSSM by MMFP Solutions](https://www.mmfpsolutions.io/), Start9/DATUM Gateway, custom ASIC monitoring scripts, and Discord webhook alerting.
 
 🛠️ **Open Source Tooling** — Everything I build for my own infrastructure gets published so other operators can use it. If it's useful to me, it's probably useful to someone else.
 
@@ -31,7 +31,7 @@ I'm a telecom fiber optic technician in Central Saskatchewan, Canada. I've been 
 - **Infrastructure:** Linux Ubuntu VPS's, systemd services, UFW firewalls, Fail2Ban, SSH hardening, sysctl tuning
 - - **Scripting & DevOps:** Bash tooling, cron automation, Discord webhook API integrations, JSON parsing, systemd service creation, health monitoring with state-file alerting, VPS security hardening, Linux server administration
 - **Mining Hardware:** Started off with all types of GPU mining hardware and a variety of ASICs Antminer S9/17Pro & S19, Assorted Canaan Avalon Series Miners, NerdQaxe++ & NerdQx devices and a few more...
-- **Mining Software:** [GSS (GoSlimStratum)](https://www.mmfpsolutions.io/) & GSSM by MMFP Solutions, Start9, DATUM Gateway
+- **Mining Software:** GSS/GSSM (MMFP Solutions), Start9, DATUM Gateway
 - **Certs:** MCSE, MCP, CompTIA A+, CompTIA Network+
 - - **Education:** Post-secondary Systems & Electronics Technology
 
