@@ -1,6 +1,6 @@
 # Hey, I'm BaumerCrypto (AKA: BaumerCrypto2.0) 👋
 
-I'm a telecom fiber optic technician in Central Saskatchewan, Canada. I've been mining and running all types of cryptocurrency infrastructure since 2017 — GPUs, full nodes, masternodes, staking nodes, ASIC mining, and Oracle nodes.
+I'm a telecom fiber optic technician in Canada. I've been mining and running all types of cryptocurrency infrastructure since 2017 — GPUs, full nodes, masternodes, staking nodes, ASIC mining, and Oracle nodes.
 
 ## What I'm Working On
 
