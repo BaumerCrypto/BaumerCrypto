@@ -19,7 +19,7 @@ I'm a telecom fiber optic technician in Canada. I've been mining and running all
 
 ## What I've Built
 
-- **oracle-monitor.sh** — 450-line health monitoring system with 11 automated checks, Discord webhook alerting, state-file logic to prevent alert spam, and degraded consensus detection. Runs on cron every 5 minutes on my oracle VPS.
+- **oracle-monitor.sh** — 500-line health monitoring system with 11 automated checks, external config file, --dry-run mode, Discord webhook alerting, state-file logic to prevent alert spam, and degraded consensus detection. Runs on cron every 5 minutes on my oracle VPS.
 - **ORACLE_HARDENING_GUIDE.md** — Full VPS security hardening guide (690 lines) covering SSH, UFW, Fail2Ban, kernel hardening, and systemd. Based on my live oracle setup, reboot-verified.
 - **HOME_ORACLE_HARDENING_GUIDE.md** — Home network security hardening guide (1,257 lines) for Linux, Windows, and macOS. Three tiers from essential to advanced — covers firewall, port forwarding, NTP time sync, router hardening, UPS, VLANs, and WireGuard. Community-requested by Aussie Epic.
 - **Oracle VPS automation** — systemd services for auto-start on reboot, automated wallet unlock, passphrase-secured startup scripts, and cron-based monitoring with 12-hour health summaries.
