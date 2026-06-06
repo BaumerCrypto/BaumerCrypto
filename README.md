@@ -15,7 +15,7 @@ I'm a telecom fiber optic technician in Canada. I've been mining and running all
 | Repo | What It Is |
 |------|-----------|
 | [digidollar-oracle-tools](https://github.com/BaumerCrypto/digidollar-oracle-tools) | Monitoring scripts, hardening guides, and setup docs for DigiDollar oracle operators. My main project. |
-| [crypto-mining-tools](https://github.com/BaumerCrypto/crypto-mining-tools) | ASIC miner monitoring and BTC mining stack health scripts. Coming soon. |
+| [crypto-mining-tools](https://github.com/BaumerCrypto/crypto-mining-tools) | ASIC temperature monitoring with auto-switching for CGMiner ASICs, and Start9/DATUM Gateway health probes. Discord webhook alerting. |
 
 ## What I've Built
 
