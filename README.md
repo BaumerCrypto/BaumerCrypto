@@ -19,22 +19,22 @@ I'm a telecom fiber optic technician in Canada. I've been mining and running all
 
 ## What I've Built
 
-- **oracle-monitor.sh** — 500-line health monitoring system with 11 automated checks, external config file, --dry-run mode, Discord webhook alerting, state-file logic to prevent alert spam, and degraded consensus detection. Runs on cron every 5 minutes on my oracle VPS.
+- **oracle-monitor.sh** — 800-line health monitoring system with 12 automated checks, external config file, --dry-run mode, Discord webhook alerting, anti-flap engineering (cooldown timer + hysteresis buffer), quorum margin tracking with heartbeat-based oracle counting, MuSig2 session monitoring, and degraded consensus detection. Runs on cron every 5 minutes on my oracle VPS.
 - **ORACLE_HARDENING_GUIDE.md** — Full VPS security hardening guide (690 lines) covering SSH, UFW, Fail2Ban, kernel hardening, and systemd. Based on my live oracle setup, reboot-verified.
 - **HOME_ORACLE_HARDENING_GUIDE.md** — Home network security hardening guide (1,257 lines) for Linux, Windows, and macOS. Three tiers from essential to advanced — covers firewall, port forwarding, NTP time sync, router hardening, UPS, VLANs, and WireGuard. Community-requested by Aussie Epic.
-- **Oracle VPS automation** — systemd services for auto-start on reboot, automated wallet unlock, passphrase-secured startup scripts, and cron-based monitoring with 12-hour health summaries.
+- **Oracle VPS automation** — systemd services for auto-start on reboot, passphrase-secured startup scripts, cron-based monitoring with 12-hour health summaries, and Contabo VPS snapshot management for disaster recovery.
 
 ## Tech I Work With
 
 - **Blockchains:** Bitcoin — there is no second best! Well... besides DigiByte 😄
 - **Node History:** Full nodes, masternodes, and staking nodes across DigiByte, PIVX, SESH/Session/Oxen, and so many others over the years
-- - **Community Governance:** Helium Network MCC (Manufacturer Compliance Committee) — reviewed and approved IoT hotspot manufacturers for the HNT network
+- **Community Governance:** Helium Network MCC (Manufacturer Compliance Committee) — reviewed and approved IoT hotspot manufacturers for the HNT network
 - **Infrastructure:** Linux Ubuntu VPS's, systemd services, UFW firewalls, Fail2Ban, SSH hardening, sysctl tuning
-- - **Scripting & DevOps:** Bash tooling, cron automation, Discord webhook API integrations, JSON parsing, systemd service creation, health monitoring with state-file alerting, VPS security hardening, Linux server administration
+- **Scripting & DevOps:** Bash tooling, cron automation, Discord webhook API integrations, JSON parsing with jq, systemd service creation, health monitoring with state-machine alerting (anti-flap, cooldown, hysteresis), VPS security hardening, Linux server administration
 - **Mining Hardware:** Started off with all types of GPU mining hardware in 2017, a variety of ASICs — Antminer S9, S17 Pro & S19 — and now as 'Home Mining' has taken off and devices have advanced, I have an assorted collection of Canaan Avalon Series Miners, multiple NerdQaxe++ & NerdQx devices and a few more...
 - **Mining Software:** [GSS/GSSM by MMFP Solutions](https://www.mmfpsolutions.io/), Start9 OS, DATUM Gateway, ESP-Miner-NerdQAxePlus, AxeOS, BitCoin Knots.
 - **Certs:** MCSE, MCP, CompTIA A+, CompTIA Network+
-- - **Education:** Post-secondary Systems & Electronics Technology
+- **Education:** Post-secondary Systems & Electronics Technology
 
 ## Find Me
 
