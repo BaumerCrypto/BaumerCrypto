@@ -27,7 +27,7 @@ I'm a telecom fiber optic technician in Canada. I've been mining and running all
 ## Tech I Work With
 
 - **Blockchains:** Bitcoin — there is no second best! Well... besides DigiByte 😄
-- **Node History:** Full nodes, masternodes, and staking nodes across DigiByte, PIVX, SESH/Session/Oxen, and so many others over the years
+- **Node History:** Full nodes, masternodes, and staking nodes across DigiByte, PIVX, ChainFlip, SESH/Session/Oxen, and so many others over the years
 - **Community Governance:** Helium Network MCC (Manufacturer Compliance Committee) — reviewed and approved IoT hotspot manufacturers for the HNT network
 - **Infrastructure:** Linux Ubuntu VPS's, systemd services, UFW firewalls, Fail2Ban, SSH hardening, sysctl tuning
 - **Scripting & DevOps:** Bash tooling, cron automation, Discord webhook API integrations, JSON parsing with jq, systemd service creation, health monitoring with state-machine alerting (anti-flap, cooldown, hysteresis), VPS security hardening, Linux server administration
