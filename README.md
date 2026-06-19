@@ -20,6 +20,7 @@ I'm a telecom fiber optic technician in Canada. I've been mining and running all
 ## What I've Built
 
 - **oracle-monitor.sh** — 800-line health monitoring system with 12 automated checks, external config file, --dry-run mode, Discord webhook alerting, anti-flap engineering (cooldown timer + hysteresis buffer), quorum margin tracking with heartbeat-based oracle counting, MuSig2 session monitoring, and degraded consensus detection. Runs on cron every 5 minutes on my oracle VPS.
+- **oracle-network-status.sh** — Gitter network status bot that posts automated oracle health summaries to the DigiDollar community channel every 12 hours via Matrix API. Reports quorum health, consensus price, MuSig2 signing status, software version adoption, and stale/inactive operators with @ mention notifications. Community-requested feature by shenger.
 - **ORACLE_HARDENING_GUIDE.md** — Full VPS security hardening guide (690 lines) covering SSH, UFW, Fail2Ban, kernel hardening, and systemd. Based on my live oracle setup, reboot-verified.
 - **HOME_ORACLE_HARDENING_GUIDE.md** — Home network security hardening guide (1,257 lines) for Linux, Windows, and macOS. Three tiers from essential to advanced — covers firewall, port forwarding, NTP time sync, router hardening, UPS, VLANs, and WireGuard. Community-requested by Aussie Epic.
 - **Oracle VPS automation** — systemd services for auto-start on reboot, passphrase-secured startup scripts, cron-based monitoring with 12-hour health summaries, and Contabo VPS snapshot management for disaster recovery.
