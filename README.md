@@ -30,11 +30,11 @@ I'm a telecom fiber optic technician in Canada. I've been mining and running all
 ## Tech I Work With
 
 - **Blockchains:** Bitcoin of course, there is no second best! Well... besides DigiByte 😄
-- **Node History:** Full nodes, masternodes, and staking nodes across DigiByte, PIVX, ChainFlip, SESH/Session/Oxen, and sooo many others over the years
-- **Community Governance:** Helium Network MCC (Manufacturer Compliance Committee): reviewed and approved IoT hotspot manufacturers for the HNT network
-- **Infrastructure:** Linux Ubuntu VPS's, systemd services, UFW firewalls, Fail2Ban, SSH hardening, sysctl tuning, systemd-oomd, cgroup resource isolation, DNS/domain management
-- **Scripting & DevOps:** Bash, PowerShell, cron automation, Discord webhook API integrations, Matrix/Gitter bot API, JSON parsing with jq, systemd service creation, health monitoring with state-machine alerting (anti-flap, cooldown, hysteresis), VPS security hardening, Linux server administration, cross-platform scripting (Linux/Windows/macOS)
-- **Mining Hardware:** Started off with all types of GPU mining hardware in 2017, a variety of ASICs — Antminer S9, S17 Pro & S19, and now as 'Home Mining' has taken off and devices have advanced, I have an assorted collection of Canaan Avalon Series Miners, multiple NerdQaxe++ & NerdQx devices and a few more...
+- **Node History:** Full nodes, masternodes, and staking nodes across DigiByte, PIVX, ChainFlip, SESH/Session/Oxen, and sooo many others over the years.
+- **Community Governance:** Helium Network MCC (Manufacturer Compliance Committee): reviewed and approved IoT hotspot manufacturers for the HNT network.
+- **Infrastructure:** Linux Ubuntu VPS's, systemd services, UFW firewalls, Fail2Ban, SSH hardening, sysctl tuning, systemd-oomd, cgroup resource isolation, DNS/domain management.
+- **Scripting & DevOps:** Bash, PowerShell, cron automation, Discord webhook API integrations, Matrix/Gitter bot API, JSON parsing with jq, systemd service creation, health monitoring with state-machine alerting (anti-flap, cooldown, hysteresis), VPS security hardening, Linux server administration, cross-platform scripting (Linux/Windows/macOS).
+- **Mining Hardware:** Started off with all types of GPU mining hardware in 2017, a variety of ASICs - Antminer S9, S17 Pro & S19, and now as 'Home Mining' has taken off and devices have advanced, I have an assorted collection of Canaan Avalon Series Miners, multiple NerdQaxe++ & NerdQx devices and a few more...
 - **Mining Software:** [GSS/GSSM by MMFP Solutions](https://www.mmfpsolutions.io/), Start9 OS, DATUM Gateway, ESP-Miner-NerdQAxePlus, AxeOS, BitCoin Knots.
 - **Certs:** MCSE, MCP, CompTIA A+, CompTIA Network+
 - **Education:** Post-secondary Systems & Electronics Technology
