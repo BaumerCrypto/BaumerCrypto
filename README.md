@@ -1,6 +1,6 @@
 # Hey, I'm BaumerCrypto (AKA: BaumerCrypto2.0) 👋
 
-I'm a telecom fiber optic technician (splicer) in Canada <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1e6.png" height="20" align="top" alt="Canada flag">.&ensp;I've been mining and running all types of cryptocurrency infrastructure since 2017 - GPUs, full nodes, masternodes, staking nodes, ASIC mining, and Oracle nodes.
+I'm a telecom fiber optic technician (splicer) in Canada <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1e6.png" height="20" align="top" alt="Canada flag">.&ensp;I've been mining and running all types of cryptocurrency infrastructure since 2017 - GPUs, full nodes, masternodes, staking nodes, ASIC mining, and oracle nodes.
 
 ## What I'm Working On
 
@@ -30,12 +30,12 @@ I'm a telecom fiber optic technician (splicer) in Canada <img src="https://githu
 ## Tech I Work With
 
 - **Blockchains:** Bitcoin of course, there is no second best! Well... besides DigiByte 😄
-- **Node History:** Full nodes, masternodes, and staking nodes across DigiByte, PIVX, ChainFlip, SESH/Session/Oxen, FLUX, NRG, SCPrime(XAMiner), NULS, PIRL,  and sooo many others over the years, that's how you learn!
+- **Node History:** Full nodes, masternodes, and staking nodes across DigiByte, PIVX, Chainflip, SESH/Session/Oxen, FLUX, NRG, ScPrime (Xa-Miner), NULS, PIRL,  and sooo many others over the years, that's how you learn!
 - **Community Governance:** Helium Network MCC (Manufacturer Compliance Committee): reviewed and approved IoT hotspot manufacturers for the HNT network.
-- **Infrastructure:** Linux Ubuntu VPS's, systemd services, UFW firewalls, Fail2Ban, SSH hardening, sysctl tuning, systemd-oomd, cgroup resource isolation, DNS/domain management.
+- **Infrastructure:** Ubuntu Linux VPSes, systemd services, UFW firewalls, Fail2Ban, SSH hardening, sysctl tuning, systemd-oomd, cgroup resource isolation, DNS/domain management.
 - **Scripting & DevOps:** Bash, PowerShell, cron automation, Discord webhook API integrations, Matrix/Gitter bot API, JSON parsing with jq, systemd service creation, health monitoring with state-machine alerting (anti-flap, cooldown, hysteresis), VPS security hardening, Linux server administration, cross-platform scripting (Linux/Windows/macOS).
-- **Mining Hardware:** Started off with all types of GPU mining hardware in 2017, a variety of ASICs - Antminer S9, S17 Pro & S19, and now as 'Home Mining' has taken off and devices have advanced, I have an assorted collection of Canaan Avalon Series Miners, multiple NerdQaxe++ & NerdQx devices and many more...
-- **Mining Software:** [GSS/GSSM by MMFP Solutions](https://www.mmfpsolutions.io/), Start9 OS, DATUM Gateway, ESP-Miner-NerdQAxePlus, AxeOS, BitCoin Core & BitCoin Knots.
+- **Mining Hardware:** Started off with all types of GPU mining hardware in 2017, a variety of ASICs - Antminer S9, S17 Pro & S19, and now as 'Home Mining' has taken off and devices have advanced, I have an assorted collection of Canaan Avalon Series Miners, multiple NerdQAxe++ & NerdQx devices and many more...
+- **Mining Software:** [GSS/GSSM by MMFP Solutions](https://www.mmfpsolutions.io/), Start9 OS, DATUM Gateway, ESP-Miner-NerdQAxePlus, AxeOS, Bitcoin Core & Bitcoin Knots.
 - **Certs:** MCSE, MCP, CompTIA A+, CompTIA Network+
 - **Education:** Post-secondary Systems & Electronics Technology
 
